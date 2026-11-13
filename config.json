@@ -96,10 +96,16 @@
     ]
   },
   "delivery": {
-    "inside": 80,
-    "outside": 150,
-    "insideLabel": "ঢাকার ভিতরে",
-    "outsideLabel": "ঢাকার বাইরে"
+    "options": [
+      {
+        "label": "ঢাকার ভিতরে",
+        "fee": 80
+      },
+      {
+        "label": "ঢাকার বাইরে",
+        "fee": 150
+      }
+    ]
   },
   "texts": {
     "checkoutTitle": "মিনিটের মধ্যে অর্ডার করুন",
