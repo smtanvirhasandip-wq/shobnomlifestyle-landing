@@ -7,7 +7,9 @@
   },
   "integrations": {
     "metaPixelId": "4148253915429971",
-    "appsScriptUrl": "https://script.google.com/macros/s/AKfycbyXwyTycgOeS_DJyQzebBxW5xI9DW5qXvECbB6gr7v634SMMRTmJ0T0B6wIRAW_v4Oa/exec"
+    "appsScriptUrl": "https://script.google.com/macros/s/AKfycbyXwyTycgOeS_DJyQzebBxW5xI9DW5qXvECbB6gr7v634SMMRTmJ0T0B6wIRAW_v4Oa/exec",
+    "googleAnalyticsId": "G-GJLK82GS4K",
+    "clarityId": ""
   },
   "theme": {
     "navy": "#2c4467",
